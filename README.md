@@ -2,6 +2,8 @@
 
 A collection of hands-on **Python, data analytics, and machine-learning projects** by **Aqsa Mansoor**. This repository documents work in exploratory data analysis (EDA), visualization, feature engineering, regression, classification, and model development.
 
+**[Explore my complete Data Analyst & AI project portfolio](PORTFOLIO.md)** — featured projects, visual previews, skills, and certifications.
+
 ## Featured projects
 
 | Project | Focus | Explore |
